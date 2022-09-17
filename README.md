@@ -16,15 +16,13 @@ The project was broken into five parts, each described as below:
 **1. Fetching the data:** I created a [python script](https://github.com/tony1523/Damian-Lillard-2020-2021-season-analysis/blob/main/nba_stats_scrapping.py) that allows me to fetch data from Lillard's 2020-2021
  season from the [basketball reference website](https://www.basketball-reference.com/), and export it to a CSV file.
  
-**2. Cleaning and Formating the data:** Once I got the data into a [CSV file](https://github.com/tony1523/Damian-Lillard-2020-2021-season-analysis/blob/main/data/lillard_2021_stats.csv), I imported it into Power BI. 
-I made sure to remove all duplicates and unrequired data, fixed errors, handled missing values and empty fields, and formated the data in the Query Editor.
+**2. Cleaning and Formating the data:** Once I got the data into a [CSV file](https://github.com/tony1523/Damian-Lillard-2020-2021-season-analysis/blob/main/data/lillard_2021_stats.csv). 
+I made sure to remove all duplicates and unrequired data, fixed errors, handled missing values and empty fields, and formated the data with the pandas library in python.
  
 **3. Data Analysis:** After cleaning the data, I inspected it, explored it and made sure to understand it, in order 
 to be able to build a story. 
 
-**4. Building a dashboard:** I built graphs demonstrating Lillard's performance in different aspects of the game.
-
-**5. Interpret the findings:** I retained the most interesting findings, and interpreted the data.
+**4. Interpret the findings:** I retained the most interesting findings, and interpreted the data.
 
 --------------------------------------------------------
 # Dashbord and Report
