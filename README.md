@@ -25,4 +25,4 @@ to be able to build a story.
 **4. Interpret the findings:** I retained the most interesting findings, and interpreted the data.
 
 --------------------------------------------------------
-# Dashbord and Report
+# [Report](https://github.com/tony1523/Damian-Lillard-2020-2021-season-analysis/blob/main/Lillard%20Project.ipynb)
